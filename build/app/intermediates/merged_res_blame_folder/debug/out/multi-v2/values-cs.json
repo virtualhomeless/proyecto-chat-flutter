@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alexs/Desktop/plantilla/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "/home/alexs/Desktop/proyecto-chat-clonado/proyecto-chat-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "/home/alexs/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-cs/values-cs.xml",
